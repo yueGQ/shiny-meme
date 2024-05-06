@@ -13,6 +13,7 @@
   <p>哈哈哈哈哈哈</p>
   <p>他慢慢学会承担所有爱</p>
   <p>慢慢的重来</p>
+  <p>红日红日</p>
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";
