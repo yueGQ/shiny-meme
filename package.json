@@ -19,5 +19,9 @@
     "less": "^4.0.0",
     "less-loader": "^8.0.0",
     "typescript": "~4.5.5"
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": "babel.config.js",
+  "author": "",
+  "license": "ISC"
 }
