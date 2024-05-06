@@ -11,6 +11,8 @@
   <h1>你吓跑四物品</h1>
   <h1>你吓跑四物品</h1>
   <p>哈哈哈哈哈哈</p>
+  <p>他慢慢学会承担所有爱</p>
+  <p>慢慢的重来</p>
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";
